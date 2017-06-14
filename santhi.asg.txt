@@ -1,0 +1,12 @@
+ JIT ::
+
+        -The first step in the machine code generation process is Just-In-Time compilation.
+        -The JIT compilation of the bytecode into native machine.
+        -just-In-Time at the particular system platform compiles the bytecode into the particular system code.
+        -The Just-In-Time compiler comes with JVM and is used optionally.
+        -It compiler the bytecode into platform specific executable code that is immediately executed.
+       -The simplest tool used to increase the performance of your application is the JIT.
+       -Java source files are application by the java compiler into platform independent bytecode.
+       -The JVM loads the compiled classes at run time and execute the proper computation semantic via the java interpreter.
+       -Once  such method call is compiled into machine code, the JVM executes it directly instead.
+      -The bytecode is platform independent code that can be sent to any platform and run on that platform.
